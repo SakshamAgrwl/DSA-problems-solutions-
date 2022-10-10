@@ -1,3 +1,5 @@
+//problem link: https://practice.geeksforgeeks.org/problems/subarrays-with-sum-k/1
+
 //{ Driver Code Starts
 #include <bits/stdc++.h>
 using namespace std;
